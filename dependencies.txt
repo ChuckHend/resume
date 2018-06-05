@@ -1,0 +1,2 @@
+--Install xelatex
+--compile with xelatex <file-name>.tex
