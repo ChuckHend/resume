@@ -1,0 +1,24 @@
+To whom it may concern,
+
+My name is Ian Stanton and I have a passion for all things Linux & open source related.  While I have the Data Scientist II title, my job funtctions are those of a software engineer.  I have been with Optum since 2015, and have been hearing more great things about Rally.  I am looking for more challenging and meaningful work at a company that has an engineering culture. I believe that my experience developing infrastructure and platform solutions for a team of data scientists at Optum makes me a great fit for this position.
+
+
+The following are a few examples of relevant project work I've completed at Optum. I feel these experiences make me an excellent candidate for this roll:
+  * Developed and maintained data ETL process automation solution using Apache Airflow.
+  * Designed, implemented and maintained core components of infrastructure for multiples teams.
+  * Configured application & server log pipeline using Elastic Stack (Filebeat, Logstash, Elasticsearch, Kibana)
+  * Built containerized Jupyter Notebook spawner utilizing Docker, Jupyter, Mesos and Marathon.
+  * Built encryption key management server using Docker, HashiCorp Vault and OpenShift.
+  * Contributed to the creation of a Jenkins plugin used for ensuring open source licenses compliance in code repositories.
+
+
+Please reach out at your convenience to discuss the skills and experience I can bring to Rally.  You can reach me at (952)288-4099, or via email at stant099@umn.edu. Thank you for your time and consideration.
+
+Sincerely,
+Ian Stanton
+
+--Memoization
+--Graph / tree treversal (search algorithms)
+--anagram detector coding
+--implement data structure using another data structure
+--
